@@ -52,16 +52,17 @@ I am an **Information Technology Engineering student** passionate about building
 
 <p align="left">
 
-<a href="https://github.com/deoresiddhesh"target="_blank">GitHub</a> |
-
-<a href="https://www.linkedin.com/in/siddheshwar-deore-371b0b292"target="_blank"
-LinkedIn
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  GitHub
 </a> |
 
-<a href="https://leetcode.com/u/deoresiddhesh_/"target="_blank"
-LeetCode
-</a>
+<a href="https://www.linkedin.com/in/siddheshwar-deore-371b0b292" target="_blank">
+  LinkedIn
+</a> |
 
+<a href="https://leetcode.com/u/deoresiddhesh_/" target="_blank">
+  LeetCode
+</a>
 </p>
 
 ---
