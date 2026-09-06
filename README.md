@@ -5,8 +5,8 @@
 ### 💻 IT Engineering Student | Java & DSA Enthusiast | Full-Stack Developer | AI/ML Learner
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <a href="https://github.com/deoresiddhesh">
+    <img src="https://komarev.com/ghpvc/?username=deoresiddhesh&label=Profile%20Views&color=blue&style=flat" />
   </a>
 </p>
 
