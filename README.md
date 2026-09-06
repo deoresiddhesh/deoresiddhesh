@@ -27,6 +27,47 @@ I am an **Information Technology Engineering student** passionate about building
 
 ---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=deoresiddhesh&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoresiddhesh&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/deoresiddhesh">
+GitHub
+</a> |
+
+<a href="https://www.linkedin.com/in/siddheshwar-deore-371b0b292">
+LinkedIn
+</a> |
+
+<a href="https://leetcode.com/u/deoresiddhesh_/">
+LeetCode
+</a>
+
+</p>
+
+---
+
 # 🚀 Featured Project
 
 ## 🌾 AgriSanyog
