@@ -50,19 +50,22 @@ I am an **Information Technology Engineering student** passionate about building
 
 # 🔗 Connect With Me
 
+<h2>🔗 Connect With Me</h2>
+
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-  GitHub
-</a> |
-
-<a href="https://www.linkedin.com/in/siddheshwar-deore-371b0b292" target="_blank">
-  LinkedIn
-</a> |
-
-<a href="https://leetcode.com/u/deoresiddhesh_/" target="_blank">
-  LeetCode
+<a href="https://www.linkedin.com/in/siddheshwar-deore-371b0b292">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://leetcode.com/u/deoresiddhesh_/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://github.com/deoresiddhesh">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
