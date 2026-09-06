@@ -27,13 +27,20 @@ I am an **Information Technology Engineering student** passionate about building
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=deoresiddhesh&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=deoresiddhesh&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoresiddhesh&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
 </p>
 
 ---
@@ -49,8 +56,6 @@ I am an **Information Technology Engineering student** passionate about building
 ---
 
 # 🔗 Connect With Me
-
-<h2>🔗 Connect With Me</h2>
 
 <p align="left">
 
